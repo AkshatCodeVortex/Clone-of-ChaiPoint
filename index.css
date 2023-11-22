@@ -1,0 +1,239 @@
+/* .navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+} */
+
+
+
+.navbar-brand img{
+    width: 50%;
+}
+.bg-warning{
+   background-color: #fff;
+}
+
+.section-2{
+    text-align: center;
+    padding: 80px;
+    background-color: #f4f4f4;
+}
+
+.section-2 p{
+   padding: 30px;
+   font-size: 13px;
+}
+
+.section-2 h2{
+    font-size: 1.75em;
+    font-family: Gill Sans Nova,sans-serif;
+}
+
+.container h1{
+    padding: 70px;
+    font-size: 25px;
+}
+
+#card1{
+    padding: 30px;
+}
+#card2{
+    padding: 30px;
+}
+#card1 p{
+    text-align: left;
+}
+#card2 p{
+text-align: left;
+}
+#assamTea:hover{
+    content: url(https://cdn.shopify.com/s/files/1/0415/7748/0342/products/PremiumAssamLisitng_USP_720x.jpg?v=1632142601);
+}
+#masalatea:hover{
+    content: url(https://cdn.shopify.com/s/files/1/0415/7748/0342/products/AssamMasalaListing_Ingredients_720x.jpg?v=1632141941);
+}
+#greentea:hover{
+    content: url(https://cdn.shopify.com/s/files/1/0415/7748/0342/products/AssamWholeLeaf_USP_720x.jpg?v=1632142411);
+}
+#instant:hover{
+    content: url(https://cdn.shopify.com/s/files/1/0415/7748/0342/products/Shopify_ICMasala-05_720x.jpg?v=1621581376);
+}
+#ginger:hover{
+    content: url(https://cdn.shopify.com/s/files/1/0415/7748/0342/products/Shopify_ICGinger-05_720x.jpg?v=1621581053);
+}
+#elaichi:hover{
+    content: url(https://cdn.shopify.com/s/files/1/0415/7748/0342/products/FOP_1_720x.jpg?v=1627978864);
+}
+#card1 button{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 13px;
+    float: right;
+    background-color: black;
+    color: #fff;
+    font-weight: 500;
+}
+#card2 button{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding: 8px;
+    font-size: 13px;
+    float: right;
+    background-color: black;
+    color: #fff;
+    font-weight: 500;
+}
+
+#seeMore button{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 10px;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 8px;
+    font-size: 13px;
+    background-color: #fff;
+    color: black;
+    font-weight: 700;
+}
+
+#GiftCard{
+    padding-left: 120px;
+}
+
+#GiftCard h4{
+    text-align: left;
+    font-weight: 400;
+}
+
+#GiftCard p{
+    text-align: left;
+}
+
+#GiftCard h5{
+    text-align: left;
+    padding-top: 40px;
+    font-size: 14px;
+    
+}
+#price{
+    float: left;
+    width: 80%;
+    padding: 8px;
+}
+
+#GiftCard button{
+    float: left;
+    margin-top: 50px;
+    border: 1px solid rgb(11, 11, 11);
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    font-weight: 500;
+    font-size: 14px;
+}
+#GiftCard button:hover{
+    color: #fff;
+    background-color: black;
+}
+#GiftCard h6{
+    text-align: left;
+    margin-top: 100px;
+}
+
+#GiftHead h2{
+   padding: 80px;
+   font-size: 25px;
+   font-weight: 400;
+}
+
+#shop1,#shop2{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+#shop1,#shop2 p{
+    text-align: left;
+    padding: 5px;
+}
+
+#collection h2{
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-size: 23px;
+}
+
+#Aboutcontent{
+    padding-left: 50px;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding-top: 10%;
+}
+
+#mail{
+    padding: 100px;
+}
+
+#mail p{
+    padding-bottom: 35px;
+    font-weight: 400;
+    font-size: 20px;
+}
+#mail i{
+    padding-bottom: 20px;
+}
+
+#mail input{
+    width: 40%;
+    padding: 10px;
+    color: #b9b1b1;
+}
+
+#mail button{
+
+    margin-left: 15px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    letter-spacing: 2px;
+}
+
+
+#contact{
+    padding-top: 50px;
+}
+
+#contact h6{
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+#contact p{
+    text-align: left;
+}
+
+#detail strong{
+    text-align: left;
+}
+
+.footer p{
+    font-size: 13px;
+    padding-left: 150px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+#social i{
+ float: left;
+ padding: 10px;
+}
